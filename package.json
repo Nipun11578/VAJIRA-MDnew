@@ -1,8 +1,8 @@
 {
 "scripts": {
-"start": "pm2 start index.js --deep-monitoring --attach --name wabot",
-"stop": "pm2 stop wabot",
-"restart": "pm2 restart wabot"
+"start": "pm2 start index.js --deep-monitoring --attach --name nipun",
+"stop": "pm2 stop nipun",
+"restart": "pm2 restart nipun"
 },
 "dependencies": {
         "@whiskeysockets/baileys": "git+https://github.com/VajiraTech/VAJIRA-BAILEYS.git",
